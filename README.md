@@ -22,4 +22,4 @@ This Repository contains all data science projects.
 1. **Victoria Property Analysis** [Click Here](https://www.linkedin.com/pulse/analysis-victoria-property-market-returns-debunking-memon-cisa-cia/?trackingId=iDd%2BQ3IGRtKh5jfargj3yQ%3D%3D)
 
 ## Tableau Dashboard:
-1. ![Suicide Dashboard](file:///C:/Users/uzair/Codes/Dashboard/Suicide%20Dashboard.pdf)
+1. ![Suicide Dashboard](file:///C:/Users/uzair/Codes/Dashboard/Suicide%20Dashboard.png)
