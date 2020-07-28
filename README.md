@@ -20,5 +20,8 @@ This Repository contains all data science projects.
 ## Data Analysis:
 1. **Global Terrorism Analysis in R.** [Click Here](https://rpubs.com/uzairahmed96/561228)
 
+## Computer Vision:
+1. **Text Extraction from picture.** [Click here](https://github.com/Uzairahmed96/ComputerVision/blob/master/TextExtraction%20(1).ipynb)
+
 ## Article:
 1. **Victoria Property Analysis.** [Click Here](https://www.linkedin.com/pulse/analysis-victoria-property-market-returns-debunking-memon-cisa-cia/?trackingId=iDd%2BQ3IGRtKh5jfargj3yQ%3D%3D)
