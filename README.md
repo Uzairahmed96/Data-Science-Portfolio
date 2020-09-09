@@ -6,6 +6,7 @@ This Repository contains the link of all data science projects.
 
 1. Advance Regression Techniques in Python. [Click Here](https://github.com/Uzairahmed96/Regression/blob/master/Advanced%20Regression%20Techniques.ipynb)
 2. Russian House Price Prediction in R. [Click Here](https://rpubs.com/uzairahmed96/638076)
+3. Allstate Claims Severity in Python. [Click Here](https://github.com/Uzairahmed96/Regression/blob/master/Insurance.ipynb)
 
 ## Classification:
 
