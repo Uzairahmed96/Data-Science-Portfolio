@@ -1,6 +1,6 @@
 # Data-Science-Portfolio
 
-This Repository contains the link of all data science projects.
+This Repository contains the link of all data science projects. Try to open the notebook that you want using nbviewer online (https://nbviewer.jupyter.org/) if it shows an error. Simply copy the link of the notebook and paste it in the search.
 
 ## Regression:
 
