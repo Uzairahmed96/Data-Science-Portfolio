@@ -17,7 +17,7 @@ This Repository contains the link of all data science projects. Try to open the 
 
 ## Data Visualization:
 
-1. Covid-19 Dashboard in R. [Click Here](https://rpubs.com/uzairahmed96/631471)
+1. Covid-19 Dashboard in R. [Click Here](https://rpubs.com/uzairahmed96/745544)
 
 ## Data Analysis:
 1. Global Terrorism Analysis in R. [Click Here](https://rpubs.com/uzairahmed96/561228)
